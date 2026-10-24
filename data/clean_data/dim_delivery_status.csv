@@ -1,0 +1,5 @@
+﻿delivery_status_key,delivery_status
+1,Advance shipping
+2,Late delivery
+3,Shipping on time
+4,Shipping canceled
